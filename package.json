@@ -10,7 +10,7 @@
     "sequelize": "~2.0.0-alpha2",
     "ejs": "~0.8.4",
     "express": "~3.3.4",
-    "async": "~0.2.9",
+    "async": "~0.2.9"
   },
   "engines": {
     "node": "0.10.12",
