@@ -1,0 +1,71 @@
+body {
+  font-family: Droid Serif, Helvetica, Arial;
+  font-size: 13px;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.navbar-brand {
+  padding: 10px;
+}
+
+.nav li {
+  text-transform: uppercase;
+}
+
+
+.colored-bar {
+  height: 5px;
+  width: 100%;
+}
+
+#footer .colored-bar {
+  width: 180px;
+}
+
+.colored-bar > div {
+  height: 100%;
+  width: 20%;
+  float: left;
+}
+
+.colored-bar .red {
+  background-color: #E6745E;
+}
+
+.colored-bar .orange {
+  background-color: #E3B161;
+}
+
+.colored-bar .green {
+  background-color: #DBF58E;
+}
+
+.colored-bar .blue {
+  background-color: #9ADEFC;
+}
+
+.colored-bar .purple {
+  background-color: #B298FD;
+}
+
+#footer {
+  background-color: #F2F2F2;
+  clear: left;
+}
+
+#footer .container p:nth-child(2) {
+  padding-top: 20px;
+}
+
+#footer .container p:last-child {
+  padding-bottom: 50px;
+  margin-bottom: 0px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #333;
+}
