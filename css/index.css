@@ -13,14 +13,11 @@
 }
 
 #top-bg h1 small {
-  font-family: "Droid Serif";
   color: #FFF;
   font-size: 20px;
 }
 
 #top-bg h1 big {
-  /*font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";*/
-  font-family: "Droid Serif";
   font-size: 70px;
   line-height: 1;
 }
@@ -32,7 +29,7 @@
   /*font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";*/
   font-size: 20px;
   letter-spacing: 1px;
-  /*box-shadow: 0px 5px 0px rgba(0, 0, 0, 0.5);*/
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 #top-bg p {
@@ -71,4 +68,5 @@
   padding: 0% 10%;
   font-size: 24px;
   color: #666;
+  font-weight: 300;
 }

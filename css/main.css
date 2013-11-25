@@ -4,13 +4,14 @@ body {
 }
 
 body, h1, h2 {
-  font-family: Droid Serif, Helvetica, Arial;
+  font-family: "Roboto", Helvetica;
 }
 
 #main {
   margin-top: 60px;
   margin-bottom: 50px;
   font-size: 15px;
+  font-weight: 300;
 }
 
 #main h1 {
