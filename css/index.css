@@ -1,12 +1,11 @@
 #top-bg {
-  background: url(../images/bg-skyline.jpg);
-  background-size: cover;
+  /*background: url(../images/bg-skyline.jpg);*/
+  background: url(../images/bg-stonewall.jpg);
   height: 450px;
-  position: relative;
 }
 
 #top-bg h1 {
-  margin-top: 100px;
+  margin-top: 130px;
   margin-bottom: 0px;
   text-transform: uppercase;
   color: #FFF;
@@ -40,21 +39,6 @@
   /*font-family: "HelveticaNeue-Light";*/
   text-transform: uppercase;
   font-size: 20px;
-  color: #FFF;
-}
-
-.photo-copyright {
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
-  font-size: 11px;
-  color: #AAA;
-  text-transform: none;
-  background-color: rgba(0, 0, 0, 0.5);
-}
-
-.photo-copyright:hover {
-  text-decoration: none;
   color: #FFF;
 }
 

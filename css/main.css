@@ -1,15 +1,41 @@
+.white-bg {
+  background-color: #FFF;
+}
+
 body {
   font-size: 13px;
   color: #333;
+  background-color: #F2F2F2;
 }
 
 body, h1, h2 {
   font-family: "Roboto", Helvetica;
 }
 
+#top-bg {
+  background-size: cover;
+  height: 200px;
+  position: relative;
+}
+
+.photo-copyright {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 11px;
+  color: #AAA;
+  text-transform: none;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.photo-copyright:hover {
+  text-decoration: none;
+  color: #FFF;
+}
+
 #main {
-  margin-top: 60px;
-  margin-bottom: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
   font-size: 15px;
   font-weight: 300;
 }
