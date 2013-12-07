@@ -40,6 +40,18 @@ body, h1, h2 {
   font-weight: 300;
 }
 
+#main .img-container {
+  text-align: center;
+}
+
+#main img {
+  margin-top: 15px;
+  width: 100px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  max-width: 100%;
+}
+
 #main h1 {
   color: #666;
 }
