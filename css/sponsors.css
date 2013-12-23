@@ -1,3 +1,11 @@
 #top-bg {
   background: url(../images/bg-pride.jpg);
 }
+
+center h2 {
+  margin-top: 40px;
+}
+
+center img {
+  margin: 10px;
+}
