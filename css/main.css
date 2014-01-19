@@ -55,6 +55,10 @@ body, h1, h2 {
   width: 100px;
 }
 
+#main table {
+  margin-top: 20px;
+}
+
 #main h1 {
   color: #666;
 }
